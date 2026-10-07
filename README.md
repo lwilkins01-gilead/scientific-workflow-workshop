@@ -2,7 +2,7 @@ Contact: Thomas Johnson thjohnson@microsoft.com
 
 # Scientific workflow GitHub workshop
 
-This synthetic repository supports two workshops:
+This synthetic repository supports **Lizzy with** two workshops:
 
 1. **GitHub Foundations for Scientific Work**
 2. **GitHub Copilot for Data Scientists — VS Code Agent mode**
